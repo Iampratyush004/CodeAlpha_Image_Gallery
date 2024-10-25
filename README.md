@@ -1,9 +1,4 @@
-Simple Image gallery A basic  application that shows images in a album form and tiles that could glow into the colored pixels when hover upon.
+**📄 Image Gallery**
 
-**Features:**
-
-Supports image show and segregation.
-
-**Technologies Used:**
-
-html css 
+- [Task 1](https://github.com/Iampratyush004/CodeAlpha_Image_Gallery)
+This project aims to create a captivating and user-friendly image gallery using HTML and CSS. The page serves as the gateway to our website, making it crucial to leave a lasting impression on visitors. 
